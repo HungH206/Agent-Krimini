@@ -1,0 +1,8 @@
+{
+  "name": "Agent Krimini",
+  "description": "An AI-powered campus safety agent that uses Gemini 3 to analyze real-time incidents, predict risk, and provide multimodal safety guidance.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
